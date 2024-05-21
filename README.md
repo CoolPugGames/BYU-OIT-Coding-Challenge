@@ -1,11 +1,20 @@
 # BYU-OIT-Coding-Challenge
- a mystery web app with node.js and vue.js
+## a mystery web app with node.js and vue.js
 
- to run the app, first start the backend server:
+To use this project, follow these steps:
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the following command to start the back end server:
+
+```bash
     cd ../webservice
     node app.js
+```
 
 then start the front end server:
-cd ../webapp
-npm run serve
 
+```bash
+    cd ../webapp
+    npm run serve
+```
