@@ -1,5 +1,7 @@
 # BYU-OIT-Coding-Challenge
 ## a mystery web app with node.js and vue.js
+author: Brandon Arnold
+Date: May 21, 2024
 
 To use this project, follow these steps:
 
